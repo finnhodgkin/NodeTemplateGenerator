@@ -1,2 +1,2 @@
 # description
-builds a simple blank website template with html/css/js.
+builds a simple blank website template with html/css/js files
