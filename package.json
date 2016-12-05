@@ -1,0 +1,19 @@
+{
+  "name": "templater",
+  "version": "1.0.0",
+  "description": "html templater",
+  "main": "index.js",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "template": "./bin/index.js"
+  }
+}
